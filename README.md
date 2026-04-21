@@ -1,4 +1,4 @@
-## Hi there 👋
+## STOCK MARKET PREDICTION 
 
 <!--
 **SANUSMITA/SANUSMITA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
