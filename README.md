@@ -1,5 +1,5 @@
 ## STOCK MARKET PREDICTION 
-
+A multi-model AI system combining BiLSTM, XGBoost, LightGBM, GRU, and a Transformer-Attention model to predict stock returns and generate optimal investment recommendations for 6 major US tech stocks (AAPL, MSFT, TSLA, AMZN, NVDA, GOOGL) using 5 years of historical OHLCV data, 60+ engineered features, and regime-aware indicators like Hurst Exponent and market entropy.
 <!--
 **SANUSMITA/SANUSMITA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
